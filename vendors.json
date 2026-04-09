@@ -1,0 +1,48 @@
+{
+  "vendors": [
+    {
+      "name": "Costco",
+      "output": "costco",
+      "aliases": [
+        "COSTCO",
+        "COSTCO WHOLESALE",
+        "COSTCO GAS"
+      ]
+    },
+    {
+      "name": "Shell",
+      "output": "shell",
+      "aliases": [
+        "SHELL",
+        "SHELL OIL",
+        "SHELL SERVICE STATION"
+      ]
+    },
+    {
+      "name": "Walmart",
+      "output": "walmart",
+      "aliases": [
+        "WALMART",
+        "WAL-MART",
+        "WALMART SUPERCENTER"
+      ]
+    },
+    {
+      "name": "Home Depot",
+      "output": "home-depot",
+      "aliases": [
+        "HOME DEPOT",
+        "THE HOME DEPOT"
+      ]
+    },
+    {
+      "name": "McDonald's",
+      "output": "mcdonalds",
+      "aliases": [
+        "MCDONALD'S",
+        "MCDONALDS",
+        "MCD"
+      ]
+    }
+  ]
+}

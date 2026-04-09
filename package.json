@@ -1,0 +1,18 @@
+{
+  "name": "receipt-renamer",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-only PDF receipt renamer with OCR fallback, vendor whitelist JSON, structured logs, concurrency, and folder preservation.",
+  "scripts": {
+    "start": "node rename-receipts.mjs"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.80",
+    "chrono-node": "^2.9.0",
+    "p-limit": "^6.2.0",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^4.10.38",
+    "tesseract.js": "^6.0.1"
+  }
+}
